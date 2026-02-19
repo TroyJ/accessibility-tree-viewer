@@ -1,0 +1,8 @@
+{
+  "generated_at_utc": "2026-02-19T12:27:50Z",
+  "version_name": "1.30",
+  "version_code": 30,
+  "source_hash": "bd3f9ce1930dde746d276911b3c8f41f23e55d4ae07d99858d286efaaf1cc4ca",
+  "source_commit": "d60075e3cb7aa804fd89375b4e5d46691e595a2b",
+  "source_hash_scope": "git ls-files accessibility-tree-viewer excluding build outputs and local.properties"
+}

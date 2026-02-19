@@ -1,0 +1,8 @@
+Released: 2026-02-17 12:36 AEDT
+- Added right-side interactive block overlay with clickable/long-clickable controls
+- Added show/hide toggle for right-side overlay
+- Added auto-incrementing version with version display at startup
+- Fixed: initial tree scan now triggers on service connect
+- Reduced log font size for better density
+- Log buffer capped at 3000 lines
+- Yellow overflow indicator at bottom-right corner

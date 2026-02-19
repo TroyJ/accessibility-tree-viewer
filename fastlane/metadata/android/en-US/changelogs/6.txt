@@ -1,0 +1,3 @@
+Released: 2026-02-17 13:12 AEDT
+- Long-press PgUp/PgDn to jump to start/end of log
+- Version string pinned as first line (always visible when scrolled)

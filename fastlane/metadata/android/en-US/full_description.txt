@@ -1,0 +1,18 @@
+Tree Viewer is a developer tool that uses Android's AccessibilityService to display the UI tree of the current screen as a live overlay.
+
+Features:
+- Left-half overlay showing the full accessibility tree with indentation
+- Tags for clickable, editable, scrollable, and long-clickable elements
+- Text content and content descriptions displayed inline
+- Right-half overlay with interactive blocks for clickable elements
+- Blocks show color-coded action availability (click/long-click)
+- Page up/down navigation for the log view
+- Show/hide toggle for the right-side overlay
+- Pass-through touch on the log overlay (taps reach the app underneath)
+- Auto-refreshes on screen content changes with debounce
+
+Permissions:
+- Draw over other apps (SYSTEM_ALERT_WINDOW) — for the overlay display
+- Accessibility Service — to read the UI tree
+
+This app is intended for developers and accessibility testers. It does not collect, store, or transmit any data.

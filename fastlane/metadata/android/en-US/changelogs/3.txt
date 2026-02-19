@@ -1,0 +1,5 @@
+Released: 2026-02-17 12:41 AEDT
+- Fixed version scheme to 1.<build number>
+- Version displayed in overlay log at service startup
+- Blocks refresh on scroll and window changes
+- Initial tree scan triggers immediately on service connect

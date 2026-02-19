@@ -1,0 +1,2 @@
+Released: 2026-02-17 12:29 AEDT
+Initial release with accessibility tree overlay and interactive block controls.

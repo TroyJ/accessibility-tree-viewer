@@ -1,0 +1,4 @@
+Released: 2026-02-17 13:15 AEDT
+- Self-clickable leaf nodes (standalone buttons/icons) now get their own block
+- Block text labels scoped to un-consumed children only (no leaked text from deeper blocks)
+- Timestamps added to all changelogs
