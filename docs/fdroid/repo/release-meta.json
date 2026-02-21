@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-02-20T12:09:31Z",
-  "version_name": "1.35",
-  "version_code": 35,
-  "source_hash": "912a6e7b15b50b40fd709d37f11fe88bc766d558aae3ec9b86e0f29deafcf6f1",
-  "source_commit": "58f4d09dd58203fc223e4e2b48395054795ef194",
+  "generated_at_utc": "2026-02-21T02:09:51Z",
+  "version_name": "1.36",
+  "version_code": 36,
+  "source_hash": "18bfb502fe96311cac368c723876b8dc5e131687a22d0e38a040b20ed5255406",
+  "source_commit": "baf980d5c45ee1c70e327c9175ebb032ec8fb260",
   "source_hash_scope": "git ls-files accessibility-tree-viewer excluding build outputs and local.properties"
 }
