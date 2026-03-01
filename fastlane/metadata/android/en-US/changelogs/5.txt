@@ -1,0 +1,4 @@
+Released: 2026-02-17 13:08 AEDT
+- Block scanning now uses deepest-first (post-order) traversal
+- Prevents large parent containers from creating incorrect mega-blocks
+- Consumed nodes excluded from higher-level block calculations

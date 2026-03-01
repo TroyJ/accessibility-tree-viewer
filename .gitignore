@@ -1,0 +1,20 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+/app/build
+/app/release
+*.aab
+*.jks
+*.keystore
+
+# F-Droid local repo (has keystore and config secrets)
+/fdroid-repo/
+
+# But track the published repo in docs/ (APKs are OK here)
+!docs/fdroid/repo/*.apk

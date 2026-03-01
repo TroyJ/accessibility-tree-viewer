@@ -1,0 +1,5 @@
+Released: 2026-02-17 13:29 AEDT
+- Cached tree comparison: skip all updates when accessibility tree unchanged
+- Single tree walk replaces two separate passes (log + blocks)
+- Internal CachedNode data class for structural equality, independent of log
+- Blocks no longer flicker on unchanged screens

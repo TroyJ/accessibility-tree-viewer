@@ -1,0 +1,1 @@
+Displays the Android accessibility tree as a live overlay for debugging and inspection.

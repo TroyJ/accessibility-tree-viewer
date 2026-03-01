@@ -1,0 +1,8 @@
+{
+  "generated_at_utc": "2026-03-01T10:41:05Z",
+  "version_name": "1.64",
+  "version_code": 64,
+  "source_hash": "019af20708fb85684dba457ece031333a8c0cdee03251103415c9b07f72f6c24",
+  "source_commit": "d7ac390517a49fb2b2c8b578151428b1eed02cc1",
+  "source_hash_scope": "git ls-files accessibility-tree-viewer excluding build outputs and local.properties"
+}
